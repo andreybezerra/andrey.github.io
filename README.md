@@ -2,20 +2,13 @@
 
 ## Post 1 (20260818)
 
-### A gente não enxerga o mundo, a gente constrói ele
-O olho não é uma câmera que registra tudo certinho. Temos dois tipos de sensores na retina: os cones (que veem cor e detalhe) e os bastonetes (que veem no escuro e captam movimento). Juntos, eles dão um jeito de formar uma imagem, mas o resultado não é 100% fiel.
+### O que eu achava que veria na disciplina?
 
-A prova disso? Ilusões de ótica. Duas cores iguais podem parecer diferentes dependendo do fundo. O cérebro preenche lacunas, interpreta contexto e, muitas vezes, mente pra gente. E isso não é defeito — é estratégia.
+Imaginei que ia ser uma matéria de "Front End", voltada para a interface dos computadores e coisas do tipo
 
-### A cor é uma invenção da luz
-A luz visível é só um pedacinho minúsculo de tudo o que existe no espectro eletromagnético. E a cor de um objeto? Não é "dele" — é a luz que ele reflete. Uma maçã é vermelha porque absorve quase tudo e devolve o vermelho de volta pros nossos olhos.
+### O que eu entendi que estudaremos?
 
-Meio poético, né? A gente não vê as coisas, vê a luz que elas devolvem.
-
-### RGB não é só uma sigla chata
-O olho humano tem só três tipos de cone — cada um sensível ao vermelho, verde ou azul. E com esses três, a gente vê o arco-íris inteiro. Então quando as telas usam RGB, não foi invenção de engenheiro maluco: foi a natureza que deu a dica primeiro.
-
-No fim das contas, a aula me fez perceber que a imagem digital é uma tentativa de imitar um sistema que já existe dentro de nós. A gente não inventou a visão — a gente só copiou.
+Na verdade, a gente vai estudar como a imagem digital funciona por dentro. Como a luz vira número, como o olho humano enxerga, por que usamos RGB, como uma foto vira uma matriz de pixels... É bem mais sobre a ciência por trás da imagem do que sobre ferramentas práticas.
 
 ## Post 2 (20260825)
 
